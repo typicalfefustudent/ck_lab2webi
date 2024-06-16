@@ -1,0 +1,45 @@
+body {  
+   
+    background-color: #000000;
+    font-family: 'Sehnsucht Font', 'Juice ITC', monospace;  
+    color:yellow;
+    
+}
+.nav_bar {
+    font-size: 10px;
+}
+.container {
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.hahaha {
+    background: url(../pics/trollface.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 363px;
+    height: 321px;
+    
+}
+.logo {
+    background: url(../pics/one.jpg) no-repeat center center;
+    background-size: 50%;
+    width: 74px;
+    height: 28px;
+    
+}
+.title {
+    font-size: 30px;
+}
